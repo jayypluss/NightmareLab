@@ -1,4 +1,3 @@
 # Nightmare Lab
 
-Welcome to your nightmare.
-# NightmareLab
+Welcome to your nightmare
